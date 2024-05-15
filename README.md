@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy CristianDev01</a> 👋🏼</h1>
+<h1 align="center">Hola Soy CristianDev01</a> 👋🏼</h1>
 </div>
-<img src="https://i.ibb.co/9GHLf4z/banner-git.png">
+<img src="https://i.ibb.co/3fK6x7z/banner-git.png">
 
 ## Sobre mi
 
