@@ -8,7 +8,7 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 🧑‍🚀 Estudiante ADSO SENA
+- 👨🏻‍💻 Estudiante ADSO SENA
 
 <!--
 **CristianDev01/CristianDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
