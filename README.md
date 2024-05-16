@@ -1,9 +1,9 @@
 
 
 <div align="center">
-<h1 align="center">Hola! Soy CristianDev01</a> 👋🏼</h1>
+<h2 align="center">¡Hey 👋! Soy CristianDev01 👨🏻‍💻</h2>
 </div>
-<img src="https://i.ibb.co/3fK6x7z/banner-git.png">
+<img src="https://i.ibb.co/PWsFBZt/banner-git.png">
 
 ## Sobre mi
 
