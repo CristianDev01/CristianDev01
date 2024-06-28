@@ -3,7 +3,9 @@
 <div align="center">
 <h2 align="center">¡Hey 👋! Soy CristianDev01 👨🏻‍💻</h2>
 </div>
-<img src="https://i.ibb.co/PWsFBZt/banner-git.png">
+
+<img src="https://i.ibb.co/PWsFBZt/banner-git.png" alt="CristianDeve01">
+
 
 ## Sobre mi
 
